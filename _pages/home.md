@@ -34,7 +34,7 @@ If you are interested in joining please go to the [recruitment](recruitment) pag
 We are grateful for funding from the [Medical Research Council](https://www.ukri.org/councils/mrc/).
 
 <figure class="third">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">
 
 
 
