@@ -9,9 +9,6 @@ permalink: /
 # Welcome to Wimmer Learning Memory & Decision Lab at UCL
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
-
-
 The Wimmer Lab aims to ... 
 
 
