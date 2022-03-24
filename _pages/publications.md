@@ -11,6 +11,11 @@ permalink: /publications/
 
 ---
 
+For a full list, please see below or go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
+<br><br><br>
+
+---
+
 ## Featured
 
 {% assign number_printed = 0 %}
@@ -52,7 +57,7 @@ permalink: /publications/
 <div>
 ## Full List
 
-For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
+Alternatively, please see <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
 <br><br><br>
 
 </div>
