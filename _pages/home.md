@@ -1,5 +1,5 @@
 ---
-title: "Wimmer Learning Memory & Decision Lab - Home"
+title: "Learning Memory & Decision Lab - Home"
 layout: homelay
 excerpt: "Wimmer Lab at UCL."
 sitemap: false
