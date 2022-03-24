@@ -6,7 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Wimmer Learning Memory & Decision Lab at UCL
+# Welcome to the Learning Memory & Decision Lab at UCL
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v0.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 The Wimmer Lab aims to ... 
@@ -21,11 +24,8 @@ Our main areas of research are:
 ### Technologies and methods
 The Wimmer Lab is primarily ...
 
-### Collaborators
-We work with closely with numerous collaborators, including ...
-
 ### Joining Wimmer Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+The lab is new and growing! We welcome your interest. If you are curious in joining at any level, please contact Dr. Wimmer ([recruitment](recruitment pag)).
 
 ### Funding
 We are grateful for funding from the [Medical Research Council](https://www.ukri.org/councils/mrc/).
