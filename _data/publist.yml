@@ -47,6 +47,16 @@
     display:  Wimmer & Büchel, Nature Communications (2019)
   highlight: 1
   news2: 
+  
+  - title: "Learning of distant state predictions by the orbitofrontal cortex in humans"
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: https://www.nature.com/articles/s41467-018-07280-0.pdf
+    display:  Braun, Wimmer & Shohamy, Nature Communications (2018)
+  highlight: 0
+  news2: 
 
 - title: "Reward learning over weeks versus minutes increases the neural representation of value in the human brain"
   image: Wimmeretal2018.png
@@ -56,5 +66,15 @@
     url: https://drive.google.com/file/d/18OBXjLucozjGesLlxw0V37QGdAiFdwee/view
     display:  Wimmer et al, J Neuroscience (2018)
   highlight: 1
+  news2: 
+  
+- title: "Reactivation of reward-related patterns from single past episodes supports memory-based decision making"
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: https://drive.google.com/file/d/0B3UaR3Xf8EBHd3E1X2FaXzF4QU0/view?resourcekey=0-1Ta2ErXHmvtp4qHIZ9R1fA
+    display:  Wimmer & Buchel, J Neuroscience (2016)
+  highlight: 0
   news2: 
 
