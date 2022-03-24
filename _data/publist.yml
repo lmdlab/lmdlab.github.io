@@ -97,4 +97,24 @@
     display:  Wimmer & Shohamy, Science (2012)
   highlight: 0
   news2: 
+  
+- title: "Generalization of value in reinforcement learning by humans"
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: https://drive.google.com/file/d/1e0pOHKZhtNtHpBbkVMi7YxhAoHB-MtN-/view
+    display:  Wimmer, Daw, & Shohamy, E J Neuroscience (2012)
+  highlight: 0
+  news2: 
+  
+- title: "The striatum and beyond: hippocampal contributions to decision making"
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display:  Wimmer & Shohamy, Attention and Performance XXIII: Decision Making (2011)
+  highlight: 0
+  news2: 
 
