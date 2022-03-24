@@ -1,7 +1,7 @@
 - title: "Distinct replay signatures for planning and memory maintenance"
   image: Wimmeretal2021.png
   description: 
-  authors: GE Wimmer, Y Liu, D McNamee, R Dolan
+  authors: GE Wimmer, Y Liu, D McNamee, RJ Dolan
   link:
     url: https://www.biorxiv.org/content/10.1101/2021.11.08.467745v1
     display: bioRxiv (2021)
@@ -24,7 +24,7 @@
   authors: GE Wimmer, C Büchel
   link:
     url: https://link.springer.com/epdf/10.3758/s13421-021-01233-7?sharing_token=OaVfWowFyI3Bqadz3YSbEJAH0g46feNdnc402WrhzypXQeWbZiVXdZl4Qt5olLm7toRhNM6OkBUX8DLA67sTio9LMe2OC4ht3a_KuUAwEjz9G-D4IrIOBWF7hpBYZzvRMLwjKnu_NWsAN8_u2S3emHU1cIN8J_b5BivfPHOob3k%3D
-    display: J Neuroscience (2021)
+    display: Journal of Neuroscience (2021)
   highlight: 1
   news2: 
   
@@ -51,10 +51,10 @@
 - title: "Reward learning over weeks versus minutes increases the neural representation of value in the human brain"
   image: Wimmeretal2018.png
   description: 
-  authors: GE Wimmer, 
+  authors: GE Wimmer, JK Li, KJ Gorgolewski, RA Poldrack
   link:
     url: https://drive.google.com/file/d/18OBXjLucozjGesLlxw0V37QGdAiFdwee/view
-    display: Wimmer et al, J Neuroscience (2018)
+    display: Journal of Neuroscience (2018)
   highlight: 1
   news2: 
  
@@ -81,10 +81,10 @@
 - title: "Episodic memory encoding interferes with reward learning and decreases striatal prediction errors."
   image: dummy.png
   description: 
-  authors: GE Wimmer, EK Braun, N Daw, D Shohamy
+  authors: GE Wimmer, EK Braun, ND Daw, D Shohamy
   link:
     url: https://www.jneurosci.org/content/jneuro/34/45/14901.full.pdf
-    display: J Neuroscience (2014)
+    display: Journal of Neuroscience (2014)
   highlight: 0
   news2: 
   
@@ -101,10 +101,10 @@
 - title: "Generalization of value in reinforcement learning by humans"
   image: dummy.png
   description: 
-  authors: GEW Wimmer, N Daw, D Shohamy
+  authors: GEW Wimmer, ND Daw, D Shohamy
   link:
     url: https://drive.google.com/file/d/1e0pOHKZhtNtHpBbkVMi7YxhAoHB-MtN-/view
-    display: E J Neuroscience (2012)
+    display: European Journal of Neuroscience (2012)
   highlight: 0
   news2: 
   
@@ -115,6 +115,36 @@
   link:
     url: 
     display: Attention and Performance XXIII Decision Making (2011)
+  highlight: 0
+  news2: 
+  
+  - title: "Neural antecedents of the endowment effect"
+  image: dummy.png
+  description: 
+  authors: B Knutson, GE Wimmer, S Rick, NG Hollon, D Prelec, G Loewenstein
+  link:
+    url: 
+    display: Neuron (2008)
+  highlight: 0
+  news2: 
+  
+  - title: "Nucleus accumbens mediates the influence of reward cues on financial risk-taking"
+  image: dummy.png
+  description: 
+  authors: B Knutson, GE Wimmer, K Kuhnen, P Winkielman
+  link:
+    url: 
+    display: NeuroReport (2008)
+  highlight: 0
+  news2: 
+  
+  - title: "Neural predictors of purchases"
+  image: dummy.png
+  description: 
+  authors: B Knutson, S Rick, GE Wimmer, D Prelec, G Loewenstein
+  link:
+    url: 
+    display: Neuron (2007)
   highlight: 0
   news2: 
 
