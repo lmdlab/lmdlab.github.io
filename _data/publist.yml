@@ -48,6 +48,16 @@
   highlight: 1
   news2: 
   
+- title: "Impaired generalization of reward but not loss in obsessive–compulsive disorder"
+  image: dummy.png
+  description: 
+  authors: N Rouhani, GE Wimmer, FR Schneier, AJ Fyer, D Shohamy
+  link:
+    url: https://www.nature.com/articles/s41467-019-10597-z.epdf?author_access_token=43bVRr8FXZ-L1BGrlpLVxNRgN0jAjWel9jnR3ZoTv0MRQ2akrfuLRs7J4JZXdM8KbCTfb6WWxabBlvjZ5fSOgRO6MBAbVpFZtxKyAt4qKIxjuu3N-HCtR12NpMVB-M0LME4NEHcKlwf8Rr0eNH2zag%3D%3D
+    display: Depression and Anxiety (2019)
+  highlight: 1
+  news2: 
+  
 - title: "Reward learning over weeks versus minutes increases the neural representation of value in the human brain"
   image: Wimmeretal2018.png
   description: 
@@ -74,16 +84,46 @@
   authors: GE Wimmer, C Büchel
   link:
     url: https://drive.google.com/file/d/0B3UaR3Xf8EBHd3E1X2FaXzF4QU0/view?resourcekey=0-1Ta2ErXHmvtp4qHIZ9R1fA
-    display: J Neuroscience (2016)
+    display: Journal of Neuroscience (2016)
   highlight: 0
   news2: 
   
-- title: "Episodic memory encoding interferes with reward learning and decreases striatal prediction errors."
+- title: "Social cognition as reinforcement learning: Feedback modulates emotion inference"
+  image: dummy.png
+  description: 
+  authors: JZ Zaki, S Kallman, GE Wimmer, KO Ochsner, D Shohamy
+  link:
+    url: https://drive.google.com/file/d/0B3UaR3Xf8EBHd3E1X2FaXzF4QU0/view?resourcekey=0-1Ta2ErXHmvtp4qHIZ9R1fA
+    display: Journal of Cognitive Neuroscience (2016)
+  highlight: 0
+  news2: 
+  
+- title: "Episodic memory encoding interferes with reward learning and decreases striatal prediction errors"
   image: dummy.png
   description: 
   authors: GE Wimmer, EK Braun, ND Daw, D Shohamy
   link:
     url: https://www.jneurosci.org/content/jneuro/34/45/14901.full.pdf
+    display: Journal of Neuroscience (2014)
+  highlight: 0
+  news2: 
+  
+- title: "Representation of aversive prediction errors in the human periaqueductal gray"
+  image: dummy.png
+  description: 
+  authors: M Roy, D Shohamy, ND Daw, M Jepma, GE Wimmer, TD Wager
+  link:
+    url: 
+    display: Nature Neuroscience (2014)
+  highlight: 0
+  news2: 
+  
+- title: "Transfer of learning relates to intrinsic connectivity between the hippocampus, ventromedial prefrontal cortex, and large-scale networks"
+  image: dummy.png
+  description: 
+  authors: RT Gerraty*, JY Davidow*, GE Wimmer, I Kahn, D Shohamy
+  link:
+    url: 
     display: Journal of Neuroscience (2014)
   highlight: 0
   news2: 
