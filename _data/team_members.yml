@@ -11,7 +11,13 @@
   group: 1
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: rock.jpeg
   info: See <a href="https://lmdlab.github.io/recruitment">recruitment</a> for more info
   url: 
   group: 1
+  
+- name: "Or this could be you !"
+  photo: rock.jpeg
+  info: See <a href="https://lmdlab.github.io/recruitment">recruitment</a> for more info
+  url: 
+  group: 2
