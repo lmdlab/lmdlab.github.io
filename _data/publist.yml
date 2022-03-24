@@ -1,10 +1,20 @@
 - title: "https://www.jneurosci.org/content/41/37/7894"
-  image: Young2021.png
+  image: WimmerPoldrack2022.png
   description: 
   authors: 
   link:
     url: https://www.jneurosci.org/content/41/37/7894
-    display:  Wimmer & Büchel J Neurosci (2021)
+    display:  Wimmer & Poldrack, Memory & Cognition (2022)
+  highlight: 1
+  news2: 
+
+- title: "https://link.springer.com/epdf/10.3758/s13421-021-01233-7?sharing_token=OaVfWowFyI3Bqadz3YSbEJAH0g46feNdnc402WrhzypXQeWbZiVXdZl4Qt5olLm7toRhNM6OkBUX8DLA67sTio9LMe2OC4ht3a_KuUAwEjz9G-D4IrIOBWF7hpBYZzvRMLwjKnu_NWsAN8_u2S3emHU1cIN8J_b5BivfPHOob3k%3D"
+  image: WimmerBuchel2021.png
+  description: 
+  authors: 
+  link:
+    url: https://www.jneurosci.org/content/41/37/7894
+    display:  Wimmer & Büchel, J Neurosci (2021)
   highlight: 1
   news2: 
 
