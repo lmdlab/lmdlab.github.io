@@ -14,7 +14,7 @@ permalink: /
 
 The research in the Wimmer Lab is focused on understanding the cognitive and neural systems underlying learning, memory, and decision-making.
 
-The terms learning and memory can refer to similar things, depending on the field.  Our emphasis is on understanding the things that our brains have stored that influence our choices.
+Our emphasis is broadly on understanding "the things that our brains have stored" that influence our choices.
 
 Our areas of research focus on:
 
@@ -25,7 +25,7 @@ Our areas of research focus on:
 ### Technologies and methods
 Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG.
 
-Inspired by our rich experience as we move through the world, we strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
+We strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
 
 ### Joining the Wimmer Lab
 The lab is new and growing! We welcome your interest.
