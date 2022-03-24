@@ -1,7 +1,7 @@
 ---
-title: "Wimmer Lab - Code"
+title: "Wimmer Lab - Data and Code"
 layout: textlay
-excerpt: "Wimmer Lab -- Code."
+excerpt: "Wimmer Lab -- Data and Code."
 sitemap: false
 permalink: /code/
 ---
