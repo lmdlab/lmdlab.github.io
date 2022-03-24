@@ -29,6 +29,7 @@ Please see below for an in-progress full list, or go to <a class="regtext" href=
 <div class="col-sm-6 clearfix">
  <div class="row">
  	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+  <p><em>{{ publi.authors }}</em></p>
   <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
   <a class="pub2"> {{ publi.link.display }} </a>
  </div>
