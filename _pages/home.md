@@ -12,7 +12,7 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v0.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The Wimmer Lab aims to ... 
+The research in the Wimmer Lab aims is focused on understanding the cognitive and neural systems underlying learning, memory, and decision-making.
 
 
 Our main areas of research are:
@@ -22,7 +22,7 @@ Our main areas of research are:
 3. **C**: ...
 
 ### Technologies and methods
-The Wimmer Lab is primarily ...
+Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG.
 
 ### Joining Wimmer Lab
 The lab is new and growing! We welcome your interest. If you are curious in joining at any level, please contact Dr. Wimmer ([recruitment](recruitment pag)).
