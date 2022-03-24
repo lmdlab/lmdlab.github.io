@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-For a full list, please see below or go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
+Please see below for an in-progress full list, or go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
 <br><br><br>
 
 ---
@@ -53,7 +53,7 @@ For a full list, please see below or go to <a class="regtext" href="https://scho
 ---
 
 <div>
-## Full List
+## Full List (listing in progress)
 
 Alternatively, please see <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
 <br><br><br>
