@@ -10,7 +10,7 @@ permalink: /publications/
 # Publications
 
 Please see below for an in-progress full list, or go to <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
-<br><br><br>
+<br>
 
 ---
 
@@ -56,7 +56,7 @@ Please see below for an in-progress full list, or go to <a class="regtext" href=
 ## Full List (listing in progress)
 
 Alternatively, please see <a class="regtext" href="https://scholar.google.com/citations?hl=en&user=kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a class="regtext" href="https://pubmed.ncbi.nlm.nih.gov/?term=Wimmer+GE%5BAuthor%5D&sort=date">Pubmed</a>.
-<br><br><br>
+<br><br>
 
 {% for publi in site.data.publist %}
 
