@@ -28,13 +28,13 @@ Our research uses in-lab behavioral studies, large-scale online behavioral studi
 We strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
 
 ### Joining the Wimmer Lab
-The lab is new and growing! We welcome your interest.
+**The lab is new and growing! We welcome your interest.**
 
 If you are curious in joining at any level, please contact Dr. Wimmer directly using the details on his [UCL profile page](https://iris.ucl.ac.uk/iris/browse/profile?upi=GEWIM96).
 
-Please see the new postdoc job ad: [posting here](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MzAxNiZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY2Zpcm0udmFjdGl0bGU9Q29nbml0aXZlICZwb3N0aW5nX2NvZGU9MjI0) and [twitter thread here](https://twitter.com/gelliott_wimmer/status/1506990368230830084).
+Please see the new **postdoc** job ad: [posting here](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?SID=amNvZGU9MTg4MzAxNiZ2dF90ZW1wbGF0ZT05NjYmb3duZXI9NTA0MTE3OCZvd25lcnR5cGU9ZmFpciZicmFuZF9pZD0wJnZhY2Zpcm0udmFjdGl0bGU9Q29nbml0aXZlICZwb3N0aW5nX2NvZGU9MjI0) and [twitter thread here](https://twitter.com/gelliott_wimmer/status/1506990368230830084).
 
-A posting for a research assistant will soon follow (mid-2022).
+A posting for a **research assistant** will soon follow (mid-2022).
 
 
 ### Funding
