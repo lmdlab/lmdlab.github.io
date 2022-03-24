@@ -1,4 +1,4 @@
-- title: "https://www.jneurosci.org/content/41/37/7894"
+- title: "Reward learning and working memory: effects of massed versus spaced training and post-learning delay period"
   image: WimmerPoldrack2022.png
   description: 
   authors: 
@@ -8,13 +8,23 @@
   highlight: 1
   news2: 
 
-- title: "https://link.springer.com/epdf/10.3758/s13421-021-01233-7?sharing_token=OaVfWowFyI3Bqadz3YSbEJAH0g46feNdnc402WrhzypXQeWbZiVXdZl4Qt5olLm7toRhNM6OkBUX8DLA67sTio9LMe2OC4ht3a_KuUAwEjz9G-D4IrIOBWF7hpBYZzvRMLwjKnu_NWsAN8_u2S3emHU1cIN8J_b5BivfPHOob3k%3D"
+- title: "Reactivation of single-episode pain patterns in the hippocampus and decision making"
   image: WimmerBuchel2021.png
   description: 
   authors: 
   link:
-    url: https://www.jneurosci.org/content/41/37/7894
-    display:  Wimmer & Büchel, J Neurosci (2021)
+    url: https://link.springer.com/epdf/10.3758/s13421-021-01233-7?sharing_token=OaVfWowFyI3Bqadz3YSbEJAH0g46feNdnc402WrhzypXQeWbZiVXdZl4Qt5olLm7toRhNM6OkBUX8DLA67sTio9LMe2OC4ht3a_KuUAwEjz9G-D4IrIOBWF7hpBYZzvRMLwjKnu_NWsAN8_u2S3emHU1cIN8J_b5BivfPHOob3k%3D
+    display:  Wimmer & Büchel, J Neuroscience (2021)
+  highlight: 1
+  news2: 
+  
+- title: "Episodic memory retrieval success is associated with rapid replay of episode content"
+  image: WimmerLiu2020.png
+  description: 
+  authors: 
+  link:
+    url: https://www.nature.com/articles/s41593-020-0649-z.epdf?sharing_token=69nMWjejm6tg9OY2e0cWs9RgN0jAjWel9jnR3ZoTv0PxS0tB9KmtDau_G_3q4PVAOdbWMwvf_SWmdTaOJHkQWS1kiXa2Os-lPyhPjesv1oK_U13w8JcT32Jazi4YQ_SRIqTNGFEkjcfnASUBYirT1j7OLMACZkQHj4UOzpO0K4w%3D
+    display:  Wimmer, Liu et al, Nature Neuroscience (2020)
   highlight: 1
   news2: 
 
