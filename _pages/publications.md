@@ -27,8 +27,8 @@ Please see below for an in-progress full list, or go to <a class="regtext" href=
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="row">
- 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="25%" style="float: right" />
+ <div class="well">
+ 	<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: right" />
   <p><a class="pub1" href="{{ publi.link.url }}">{{ publi.title }}</a></p>
   <p><em>{{ publi.authors }}</em></p>
   <a class="pub2"> {{ publi.link.display }} </a>
