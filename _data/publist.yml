@@ -77,4 +77,24 @@
     display:  Wimmer & Buchel, J Neuroscience (2016)
   highlight: 0
   news2: 
+  
+- title: "Episodic memory encoding interferes with reward learning and decreases striatal prediction errors."
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: https://www.jneurosci.org/content/jneuro/34/45/14901.full.pdf
+    display:  Wimmer et al., J Neuroscience (2014)
+  highlight: 0
+  news2: 
+  
+- title: "Preference by association: how memory mechanisms in the hippocampus bias decisions"
+  image: dummy.png
+  description: 
+  authors: 
+  link:
+    url: https://drive.google.com/file/d/1ejEG3-QCNQTIiggXCeUENH39gblrQcLq/view
+    display:  Wimmer & Shohamy, Science (2012)
+  highlight: 0
+  news2: 
 
