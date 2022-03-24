@@ -16,10 +16,9 @@ The research in the Wimmer Lab is focused on understanding the cognitive and neu
 
 The terms learning and memory can refer to similar things, depending on the field.  Our emphasis is on understanding the things that our brains have stored that influence our choices.
 
-
 Our areas of research focus on:
 
-1. **Goal-directed decision making**: How we form the representations of our environment, and use memories of episodes, to pursue our goals
+1. **Goal-directed decision making**: How we form the representations of our environment, and use memories of episodes, to pursue our goals.
 2. **Value-based decision-making**: How well-learned associations – such as those acquired and remembered over days – guide our behavior.
 3. **Emotion & Decision-making**: How natural and clinically-relevant variations in emotion shape our decision-making.
 
