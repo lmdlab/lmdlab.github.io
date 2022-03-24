@@ -18,11 +18,11 @@ The research in the Wimmer Lab is focused on understanding the cognitive and neu
 Our areas of research focus on:
 
 1. **Goal-directed decision making**: How we form the representations of our environment, and use memories of episodes, to pursue our goals
-2. **Value-based decision-making**: How well-learned associations - such as those acquired over weeks - guide our behaviour.
-3. **Emotion & Decision-making**: How natural and 
+2. **Value-based decision-making**: How well-learned associations – such as those acquired and remembered over days – guide our behavior.
+3. **Emotion & Decision-making**: How natural and clinically-relevant variations in emotion shape our decision-making.
 
 ### Technologies and methods
-Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG. Inspired by our rich experience as we move through the world, we strive to develop experiments that can illuminate core functions, with an aim toward informing the study of dysfunctions in psychiatric disorders.
+Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG. Inspired by our rich experience as we move through the world, we strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
 
 ### Joining Wimmer Lab
 The lab is new and growing! We welcome your interest. If you are curious in joining at any level, please contact Dr. Wimmer ([recruitment](recruitment pag)).
