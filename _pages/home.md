@@ -23,7 +23,9 @@ Our areas of research focus on:
 3. **Emotion & Decision-making**: How natural and clinically-relevant variations in emotion shape our decision-making.
 
 ### Technologies and methods
-Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG. Inspired by our rich experience as we move through the world, we strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
+Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG.
+
+Inspired by our rich experience as we move through the world, we strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
 
 ### Joining Wimmer Lab
 The lab is new and growing! We welcome your interest. If you are curious in joining at any level, please contact Dr. Wimmer directly using the details on his [UCL profile page](https://iris.ucl.ac.uk/iris/browse/profile?upi=GEWIM96).
