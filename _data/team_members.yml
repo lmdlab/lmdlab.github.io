@@ -4,6 +4,12 @@
   url: elliottwimmer
   group: 0
 
+- name: Rita Moura
+  photo: blank.png
+  info: PhD student (secondary advisor, lab affiliate)
+  url: 
+  group: 1
+  
 - name: "This could be you !"
   photo: rock.jpeg
   info: See <a href="https://lmdlab.github.io/recruitment">recruitment</a> for more info
