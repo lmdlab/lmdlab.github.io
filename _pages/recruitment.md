@@ -10,6 +10,6 @@ permalink: /recruitment/
 
 Thank you for your interest in joining the Wimmer Learning Memory and Decision Lab!
 
-## Postdoctoral researcher, research assistant, and graduate students
+## Postdoctoral researcher and graduate students
 
-We are looking to for members at many levels to join our growing lab.  Please contact Elliott Wimmer directly for information!
+We are looking to for new people to join our growing lab.  Please contact Elliott Wimmer directly for information!
