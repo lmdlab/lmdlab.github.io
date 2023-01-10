@@ -6,7 +6,7 @@ sitemap: false
 permalink: /inclusion/
 ---
 
-# Diversity and inclusion
+# Diversity and Inclusion
 
 At the LMDlab, our mission is to create an inclusive and diverse scientific research environment where everyone can feel valued and respected. We believe that diversity and inclusion are key to our success as a research group, and are committed to creating an environment that is free of discrimination and bias.
 
