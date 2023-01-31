@@ -12,20 +12,17 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v0.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
-The research in the Wimmer Lab is focused on understanding the cognitive and neural systems underlying learning, memory, and decision-making.
-
-Our emphasis is broadly on understanding "the things that our brains have stored" that influence our choices.
+The research in the Wimmer LMD Lab is focused on the cognitive and neural systems underlying learning, memory, and decision-making. Most broadly, we study how the information stored in our brains influences our behavior. Decisions can be based on different types of memories. For example, innumerable positive experiences with chocolate may bias us toward choosing a chocolate dessert, while a single recent experience of a delicious chocolate cake at a restaurant might bias our choice of where to eat. By integrating across research disciplines, and inspired by our natural experience as we learn across experiences over time, we aim to design experiments that reveal key functions and advance our understanding of dysfunctions in psychiatric disorders.
 
 Our areas of research focus on:
 
-1. **Goal-directed decision making**: How we form the representations of our environment, and use memories of episodes, to pursue our goals.
-2. **Value-based decision-making**: How well-learned associations – such as those acquired and remembered over days – guide our behavior.
-3. **Emotion & Decision-making**: How natural and clinically-relevant variations in emotion shape our decision-making.
+1. **Goal-directed decision making**: Examining how we form representations of our environment and use past experiences to achieve our goals.
+2. **Value-based decision-making**: Investigating the gradual learning and long-term maintenance of value associations.
+3. **Emotion & Decision-making**: Exploring the impact of natural and clinical variations in emotion on decision-making.
 
 ### Technologies and methods
-Our research uses in-lab behavioral studies, large-scale online behavioral studies, MEG, fMRI, and in the future, OP-MEG.
+Our research uses computational modeling of behavior, large-scale online behavioral studies, transdiagnostic computational factor analysis, and decoding of neural representations using MEG, fMRI, and (in the future) optically-pumped-MEG.
 
-We strive to develop experiments that can illuminate core functions underlying our everyday behavior, with an aim toward informing the study of dysfunctions in psychiatric disorders.
 
 ### Joining the Wimmer Lab
 **The lab is new and growing! We welcome your interest.**
