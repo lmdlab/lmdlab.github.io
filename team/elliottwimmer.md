@@ -8,7 +8,6 @@ twitter:
 github: lmdlab
 scholar: kCGU9rEAAAAJ&hl
 photo: elliottwimmer.jpg
-ucl: GEWIM96
 ---
 
 ### Overview
