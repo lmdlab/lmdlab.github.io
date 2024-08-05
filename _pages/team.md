@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 # Team Members
-(Please click the name below for the lab memeber's profile)
+
 
 
 ---
