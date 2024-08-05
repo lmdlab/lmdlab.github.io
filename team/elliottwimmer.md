@@ -8,6 +8,7 @@ twitter:
 github: gewimmer-neuro
 scholar: kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate
 photo: elliottwimmer.jpg
+ucl: 61525-elliott-wimmer
 ---
 
 ### Overview
