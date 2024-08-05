@@ -5,8 +5,8 @@ position: Principal Investigator
 handle: elliottwimmer
 email: 
 twitter:
-github: lmdlab
-scholar: kCGU9rEAAAAJ&hl
+github: gewimmer-neuro
+scholar: kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate
 photo: elliottwimmer.jpg
 ---
 
