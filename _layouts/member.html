@@ -24,14 +24,14 @@ layout: default
 <div class="row">
 	<div class="col-sm-3">
 
-		{% if member.ucsf %}
+		{% if member.ucl %}
 		<div class="smallhead">
 			UCL Profile
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-university"></i>
-			<a class="off" href="https://profiles.ucl.ac.uk/{{ member.ucl }}">{{ member.ucl }}</a>
+			<a class="off" href="https://profiles.ucl.ac.uk/{{ member.ucl }}">{{ member.title }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -55,7 +55,7 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fab fa-researchgate"></i>
-			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchgate }}">{{ member.researchgate }}</a>
+			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchgate }}">{{ member.title }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
