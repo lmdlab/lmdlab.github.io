@@ -8,7 +8,7 @@ researchgate: Yu-Zhou-104
 twitter: 
 github: 
 scholar:  
-photo: blank.jpg
+photo: blank.png
 
 ---
 
