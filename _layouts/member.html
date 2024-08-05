@@ -26,12 +26,12 @@ layout: default
 
 		{% if member.ucsf %}
 		<div class="smallhead">
-			UCSF Profile
+			UCL Profile
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-university"></i>
-			<a class="off" href="https://iris.ucl.ac.uk/{{ member.ucl }}">{{ member.ucl }}</a>
+			<a class="off" href="https://profiles.ucl.ac.uk/{{ member.ucl }}">{{ member.ucl }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -44,6 +44,18 @@ layout: default
 			<div class="smallspacer"></div>
 			<i class="fab fa-twitter fa-fw"></i>
 			<a class="off" href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+		{% if member.researchgate %}
+		<div class="smallhead">
+			GitHub
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fab fa-researchgate"></i>
+			<a class="off" href="https://www.researchgate.net/profile/{{ member.researchgate }}">{{ member.researchgate }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
