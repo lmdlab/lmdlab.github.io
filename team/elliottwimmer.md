@@ -3,8 +3,9 @@ layout: member
 title: G Elliott Wimmer
 position: Principal Investigator
 handle: elliottwimmer
-email: 
-twitter:
+email: e dot wimmer at ucl.ac.uk
+web: https://sites.google.com/site/gelliottwimmer/home
+bluesky: elliottwimmer.bsky.social
 github: gewimmer-neuro
 scholar: kCGU9rEAAAAJ&view_op=list_works&sortby=pubdate
 photo: elliottwimmer.jpg
@@ -19,8 +20,9 @@ Inspired by our rich experience as we move through the world, we strive to devel
 As a PI, Dr. Wimmer leads the Learning Memory & Decision (LMD) group of the Max Planck UCL Centre for Computational Psychiatry and Ageing Research.  The Centre is part of the Department of Imaginge Neuroscience and associated with the Wellcome Centre for Human Neuroscience (FIL), within the Institite of Neurology at Queen Square.
 
 ### Education
+- Bachelor of Arts; Cognitive Science, University of California, Berkeley (2005)
 - PhD; Psychology, Columbia University (2007-2012)
-- Postdoctoral Research Associate, Büchel Lab, University Medical Center Hamburg-Eppendorf, Hamburg, Germany (2013-2015)
-- Postdoctoral Research Associate, Poldrack Lab, Stanford University (2016-2017)
-- Postdoctoral Research Associate, Dolan Lab, UCL, London, UK (2017-2021)
-- Bachelor of Arts; University of California, Berkeley (2005)
+- Postdoctoral Research Associate, Prof Christian Büchel, University Medical Center Hamburg-Eppendorf, Hamburg, Germany (2013-2015)
+- Postdoctoral Research Associate, Prof Russ Poldrack, Stanford University (2016-2017)
+- Postdoctoral Research Associate, Prof Ray Dolan, UCL, London, UK (2017-2021)
+
