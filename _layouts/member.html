@@ -43,7 +43,7 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-globe"></i>
-			<a class="off" href="{{ member.web }}">{{ member.title }} web</a>
+			<a class="off" href="{{ member.web }}">{{ member.title }}</a>
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -54,7 +54,7 @@ layout: default
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
-			<i class="fab fa-bluesky fa-fw"></i>
+			<i class="fa-brands fa-bluesky"></i>
 			<a class="off" href="https://bsky.app/profile/{{ member.bluesky }}">{{ member.bluesky }}</a>
 		</div>
 		<div class="bigspacer"></div>
@@ -128,7 +128,7 @@ layout: default
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-inbox fa-fw"></i>
-			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+			{{ emailarray.first }}
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
