@@ -22,14 +22,14 @@
   url: yuzhou
   group: 2
   
-- name: Aysegul Ozkan
-  photo: blank.png
-  info: Postdoc
-  url: 
-  group: 2
-  
 - name: Shiyi Liang
   photo: blank.png
   info: Research Assistant
   url: 
   group: 2
+
+- name: Aysegul Ozkan
+  photo: blank.png
+  info: alumni
+  url: 
+  group: 3
