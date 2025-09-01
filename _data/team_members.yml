@@ -28,8 +28,14 @@
   url: 
   group: 2
 
+- name: Jiayi Wu
+  photo: blank.png
+  info: masters alumnus
+  url: 
+  group: 3
+  
 - name: Aysegul Ozkan
   photo: blank.png
-  info: alumni
+  info: postdoc alumnus
   url: 
   group: 3
