@@ -25,7 +25,7 @@ Our research uses computational modeling of behavior, large-scale online behavio
 
 
 ### Joining the Wimmer Lab
-**We welcome your interest!  A Research Assistant position is pending being posted (Sept. 2025)**
+**We welcome your interest!**  A Research Assistant position is pending being posted (Sept. 2025).
 
 If you are curious in joining at any level, please contact Dr. Wimmer directly using the details on his [UCL profile page](https://iris.ucl.ac.uk/iris/browse/profile?upi=GEWIM96).
 
